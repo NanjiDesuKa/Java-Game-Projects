@@ -10,6 +10,6 @@ Worked with 1 other classmate.
 
 North Korea Simulator: 
 The high school Magnum Opus (my best work in high school). 
-Entertaining luck-based text game about being a peasant, elite, or dictator of North Korea. 
+Exaggerated luck-based text game about North Korea. 
 Not 100% accurate but still fun to play.
 Solo Project.
